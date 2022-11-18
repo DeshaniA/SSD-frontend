@@ -66,7 +66,7 @@ const Header = (props) => {
   <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">For Admin
     <span class="caret"></span></button>
   <ul class="dropdown-menu">
-    <li><a href="/">Create New User</a></li>
+    <li><a href="/signup">Create New User</a></li>
     <li><a href="/viewfile"> View All Users</a></li>
     
 
